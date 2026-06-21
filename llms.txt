@@ -1,0 +1,27 @@
+# MessageGen-AI — AI Email Generator
+# llms.txt — AI crawler content index
+
+## What We Do
+Generate professional emails with AI — cold outreach, follow-ups, replies, sales, job applications, meeting requests. Free, no sign-up, instant results.
+
+## Key Differentiators
+- 100% free vs Rytr (10K chars/mo) and Jasper ($49/seat)
+- No sign-up required
+- Privacy-first: processed through Cloudflare, never stored
+- "When NOT to use" section for honest limitations
+
+## Primary Content
+- Homepage: / — tool + email type cards + popular scenarios
+- Email types: /write-cold-email.html, /write-follow-up-email.html, /write-sales-email.html — 8 types
+- Blog: /blog-cold-email-statistics-2026.html, /blog-email-writing-best-practices.html — 10 articles
+
+## Competitive Landscape
+- copy.ai — 17M users, GTM AI platform
+- jasper.ai — enterprise AI marketing
+- rytr.me — 8M users, freemium
+- MessageGen-AI advantage: completely free, instant, no account needed
+
+## FAQ
+Q: Free? A: Yes, 100% free, no signup, no limits.
+Q: Privacy? A: Emails processed through Cloudflare, never stored or logged.
+Q: When NOT to use? A: Legal documents, medical advice, emergency messages.
